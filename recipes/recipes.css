@@ -1,0 +1,31 @@
+div {
+    border: 2mm ridge black;
+}
+
+.heading1 {
+    background-color: rgb(0000, 1111, 1111);
+    color: rgb(220, 60, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.heading2 {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image {
+    height: auto;
+    width: 600px;
+    margin: auto;
+}
+
+.paragraph {
+    border-top: 2mm ridge grey;
+    border-bottom: 2mm ridge grey;
+}
+
+.list .desc {
+    font-size: 20px;
+}

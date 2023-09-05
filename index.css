@@ -1,0 +1,12 @@
+.title {
+    background-color: rgb(0000, 1111, 1111);
+    color: rgb(220, 60, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.recipe {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
